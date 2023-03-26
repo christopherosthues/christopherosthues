@@ -6,7 +6,6 @@
 I am a Full Stack Developer from Germany.
 
 - 🔭 I’m working as a Software Engineer.
-- 🌱 I’m currently learning 
 - ⚡ In my free time I’m developing my progress bar plugin for the JetBrains IDEA.
 
 ---

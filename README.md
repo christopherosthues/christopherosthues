@@ -32,8 +32,7 @@ I am a Full Stack Developer from Germany.
 
 ### 🔥 &nbsp; My Stats :
 ![Christopher's github stats](https://github-readme-stats.vercel.app/api?username=christopherosthues&show_icons=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=christopherosthues&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherosthues&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----

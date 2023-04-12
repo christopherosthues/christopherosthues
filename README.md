@@ -6,7 +6,7 @@
 I am a Full Stack Developer from Germany.
 
 - 🔭 I’m working as a Software Engineer.
-- ⚡ In my free time I’m developing the Star Wars progress bar plugin for the JetBrains IDEA.
+- ⚡ In my free time I’m developing the Star Wars progress bar plugin for JetBrains IDEA.
 
 ---
 

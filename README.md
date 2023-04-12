@@ -6,7 +6,7 @@
 I am a Full Stack Developer from Germany.
 
 - 🔭 I’m working as a Software Engineer.
-- ⚡ In my free time I’m developing my progress bar plugin for the JetBrains IDEA.
+- ⚡ In my free time I’m developing the Star Wars progress bar plugin for the JetBrains IDEA.
 
 ---
 
@@ -30,7 +30,7 @@ I am a Full Stack Developer from Germany.
 ---
 
 ### 🔥 &nbsp; My Stats :
-![Christopher's github stats](https://github-readme-stats.vercel.app/api?username=christopherosthues&show_icons=true)
+![Christopher's github stats](https://github-readme-stats.vercel.app/api?username=christopherosthues&theme=vision-friendly-dark&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=christopherosthues&theme=dark&background=000000)](https://git.io/streak-stats)
 
